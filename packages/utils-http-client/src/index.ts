@@ -1,1 +1,1 @@
-export { default as httpClient } from 'axios';
+export * as httpClient from './libs';

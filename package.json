@@ -19,7 +19,8 @@
   "workspaces": [
     "packages/app",
     "packages/utils-http-client",
-    "packages/utils-scheduler"
+    "packages/utils-scheduler",
+    "packages/utils-string"
   ],
   "dependencies": {
     "axios": "0.21.1",

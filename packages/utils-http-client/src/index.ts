@@ -1,1 +1,1 @@
-export * as httpClient from './libs';
+export { HttpClient } from './libs/HttpClient';

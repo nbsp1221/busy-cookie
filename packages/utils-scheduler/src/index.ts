@@ -1,1 +1,1 @@
-export { default as scheduler } from 'node-schedule';
+export { default as scheduler } from 'node-cron';
